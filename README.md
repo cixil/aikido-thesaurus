@@ -1,10 +1,12 @@
 # Aikido Thesaurus
 Unhappy with all the others on the internet, so decided to make my own.  
 If you remember a term used in class and can't find a definition, just add it to a category with no definition so that somebody can answer it later. This is thesaurus for quick reference of terms, not a comprehensive guide on how to do techniques, for that add an optional supplemental video or text.  
-Please keep the format. If you are unfamiliar with github flavored markdown, just make sure that your entry looks like this, before submitting:
+### Adding/editing an entry
+Please keep the format. If you are unfamiliar with github flavored markdown, just make sure that your entry looks like this before submitting:
 ``` 
 * **term** - definition  [video1](https://urltovideo.com) [text1](https://urltotextorimage.com)
 ```
+Alternatively, email cecilia@airmail.cc with additions/comments, but please use the above format.  
 Please add your wisdom with a pull-request, sensei!  
 
 ## Kata
