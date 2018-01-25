@@ -13,15 +13,15 @@ Please add your wisdom with a pull-request, sensei!
 Basic 17 techniques that Tomiki derived from Aikijitsu
 
 ### Atemi-waza
-Attacking techniques
-1. **Shomen-ate** - Forward strike to the head
+Attacking techniques  
+1. **Shomen-ate** - Forward strike to the head  
 2. **Aigamae-ate**
 3. **Gyakugamae-ate**
 4. **Gedan-ate** - Low strike  
 5. **Ushiro-ate** - Rear strike  
 
 ### Hiji-waza
-Elbow techniques
+Elbow techniques  
 6.  
 7.  
 8.   
@@ -36,10 +36,10 @@ Wrist techniques
 14. **Tenkai-kote-gaeshi** -  
 
 ### Uki-waza
-Floating techniques
-15. **Mae-otoshi** -
-16. **Sumi-otoshi** - "Corner throw" - Counter attack when 13 doesn't work
-17. **Hiki-otoshi** - 
+Floating techniques  
+15. **Mae-otoshi** -  
+16. **Sumi-otoshi** - "Corner throw" - Counter attack when 13 doesn't work  
+17. **Hiki-otoshi** -  
 
 ## Other wazas
 
