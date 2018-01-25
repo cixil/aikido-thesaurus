@@ -21,9 +21,23 @@ Attacking techniques
 
 ### Tekubi-waza
 Wrist techniques  
+11. **Kote-hineri** -
+12. **Kote-gaeshi** -
+13. **Tenkai-kote-hineri** -
+14. **Tenkai-kote-gaeshi** -
+
+### Uki-waza
+
+15. **Mae-otoshi** -
+16. **Sumi-otoshi** -
+17. **Hiki-otoshi** - 
 
 ### Suwari-waza
 Kneeling techniques  
+
+### Nanahon-nage waza
+  
+### Kuzushi-waza
 
 
 ### Buki-waza
