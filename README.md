@@ -43,14 +43,14 @@ Floating techniques
 
 ## Yon kata
 ### Nanahon-nage (Kuzushi) waza
-Balance break throws
-Jodan
+Balance break throws  
+Jodan  
 1. Aigamae jodan no kuzushi ura
-2. Gyakugamae jodan no kuzushi ura
-Chudan  
+2. Gyakugamae jodan no kuzushi ura  
+Chudan   
 3. Aigamae chudan no kuzushi ura  
 4. Gyakugamae chudan no kuzushi ura  
-Gedan
+Gedan  
 5. Aigamae gedan no kuzushi ura
 6. Gyakugamae gedan no kuzushi ura  
 
