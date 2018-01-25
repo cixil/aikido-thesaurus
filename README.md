@@ -22,11 +22,11 @@ Attacking techniques
 
 ### Hiji-waza
 Elbow techniques  
-6. **Oshi-taoshi**
-7. **Ude-gaeshi**
-8. **Hiki-taoshi**
-9. **Ude-garame**
-10. **Waki-gatame**
+6. **Oshi-taoshi**  
+7. **Ude-gaeshi**  
+8. **Hiki-taoshi**  
+9. **Ude-garame**  
+10. **Waki-gatame**  
 
 ### Tekubi-waza
 Wrist techniques  
@@ -45,16 +45,16 @@ Floating techniques
 ### Nanahon-nage (Kuzushi) waza
 Balance break throws
 Jodan
-1. 
-2.
+1. Aigamae jodan no kuzushi ura
+2. Gyakugamae jodan no kuzushi ura
 Chudan  
-3.
-4.
+3. Aigamae chudan no kuzushi ura  
+4. Gyakugamae chudan no kuzushi ura  
 Gedan
-5. 
-6. 
-...
-14.
+5. Aigamae gedan no kuzushi ura
+6. Gyakugamae gedan no kuzushi ura  
+
+7. Koho ryote dori no kuzushi ura
 ## Other wazas
 
 ### Suwari-waza
