@@ -17,23 +17,23 @@ Attacking techniques
 1. **Shomen-ate** - Forward strike to the head
 2. **Aigamae-ate**
 3. **Gyakugamae-ate**
-4. **Gedan-ate** - Low strike
-5. **Ushiro-ate** - Rear strike
+4. **Gedan-ate** - Low strike  
+5. **Ushiro-ate** - Rear strike  
 
 ### Hiji-waza
 Elbow techniques
-6.
-7.
-8. 
-9. 
-10. 
+6.  
+7.  
+8.   
+9.  
+10.  
 
 ### Tekubi-waza
 Wrist techniques  
-11. **Kote-hineri** -
-12. **Kote-gaeshi** -
-13. **Tenkai-kote-hineri** -
-14. **Tenkai-kote-gaeshi** -
+11. **Kote-hineri** -  
+12. **Kote-gaeshi** -  
+13. **Tenkai-kote-hineri** -  
+14. **Tenkai-kote-gaeshi** -  
 
 ### Uki-waza
 Floating techniques
