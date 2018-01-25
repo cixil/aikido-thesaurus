@@ -9,7 +9,7 @@ Please keep the format. If you are unfamiliar with github flavored markdown, jus
 Alternatively, email cecilia@airmail.cc with additions/comments, but please use the above format.  
 Please add your wisdom with a pull-request, sensei!  
 
-## Junanohon 
+## Junanohon Kata
 Basic 17 techniques that Tomiki derived from Aikijitsu
 
 ### Atemi-waza
@@ -22,11 +22,11 @@ Attacking techniques
 
 ### Hiji-waza
 Elbow techniques  
-6.  
-7.  
-8.   
-9.  
-10.  
+6. **Oshi-taoshi**
+7. **Ude-gaeshi**
+8. **Hiki-taoshi**
+9. **Ude-garame**
+10. **Waki-gatame**
 
 ### Tekubi-waza
 Wrist techniques  
@@ -41,14 +41,9 @@ Floating techniques
 16. **Sumi-otoshi** - "Corner throw" - Counter attack when 13 doesn't work  
 17. **Hiki-otoshi** -  
 
-## Other wazas
-
-### Suwari-waza
-Kneeling techniques  
-
-### Nanahon-nage waza
-  
-### Kuzushi-waza
+## Yon kata
+### Nanahon-nage (Kuzushi) waza
+Balance break throws
 Jodan
 1. 
 2.
@@ -60,6 +55,13 @@ Gedan
 6. 
 ...
 14.
+## Other wazas
+
+### Suwari-waza
+Kneeling techniques  
+
+
+
 
 ### Buki-waza
 
@@ -72,6 +74,9 @@ Gedan
 * **Kihone**
 * **Tegatana**
 
+## Drills?
+* **Nunin-dori** - Multiple unarmed attackers
+* **Tanto-Randori** - One knifed attacker
 
 ## Principles
 * **Atemi** - 
