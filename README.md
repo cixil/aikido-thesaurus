@@ -14,41 +14,41 @@ Basic 17 techniques that Tomiki derived from Aikijitsu
 
 ### Atemi-waza
 Attacking techniques  
-1. **Shomen-ate** - Forward strike to the head  
-2. **Aigamae-ate** – mutual stance strike; ai= same; gamae= stance
-3. **Gyakugamae-ate** - reverse posture attack; gyaku = contrary
-4. **Gedan-ate** - Low strike; gedan = low, lower level  
-5. **Ushiro-ate** - Rear strike; ushiro = rear
+1. **Shomen-ate** - Forward strike to the head   
+2. **Aigamae-ate** – mutual stance strike; ai= same; gamae= stance  
+3. **Gyakugamae-ate** - reverse posture attack; gyaku = contrary  
+4. **Gedan-ate** - Low strike; gedan = low, lower level   
+5. **Ushiro-ate** - Rear strike; ushiro = rear  
 
 ### Hiji-waza
 Elbow techniques  
-6. **Oshi-taoshi** – oshi=push down, fall down; taoshi= tip over, pull down 
-7. **Ude-gaeshi**  – ude = arm; gaeshi =return
-8. **Hiki-taoshi** - hiki= pull; elbow pull down (?)
-9. **Ude-garame** - garame = entanglement (?)
-10. **Waki-gatame** – waki= side; gatame=lock
+6. **Oshi-taoshi** – oshi=push down, fall down; taoshi= tip over, pull down  
+7. **Ude-gaeshi**  – ude = arm; gaeshi =return  
+8. **Hiki-taoshi** - hiki= pull; elbow pull down (?)  
+9. **Ude-garame** - garame = entanglement (?)  
+10. **Waki-gatame** – waki= side; gatame=lock  
 
 ### Tekubi-waza
 Wrist techniques; also referred to as Kote-waza (kote = wrist)  
 11. **Kote-hineri** - hineri = twist; forearm twist  
 12. **Kote-gaeshi** - wrist or forearm return  
-13. **Tenkai-kote-hineri** - tenkai = turning; turning kote twist
+13. **Tenkai-kote-hineri** - tenkai = turning; turning kote twist  
 14. **Tenkai-kote-gaeshi** - also called shiho nage; four direction throw; shi= four; ho= direction; nage = throw; turning kote twist return  
 
 ### Uki-waza
-Floating techniques; uki= float; otoshi=drop
-15. **Mae-otoshi** - forward drop
-16. **Sumi-otoshi** - "Corner throw" - Counter attack when 13 doesn't work; sumi = angle, corner
-17. **Hiki-otoshi** - hiki=pull; pull drop
+Floating techniques; uki= float; otoshi=drop  
+15. **Mae-otoshi** - forward drop  
+16. **Sumi-otoshi** - "Corner throw" - Counter attack when 13 doesn't work; sumi = angle, corner  
+17. **Hiki-otoshi** - hiki=pull; pull drop  
 
 ## Yon kata
 ### Nanahon-nage (Kuzushi) waza
 Balance break throws  
 Jodan  
-1. Aigamae jodan no kuzushi ura
-2. Gyakugamae jodan no kuzushi ura  
+1. Aigamae jodan no kuzushi ura  
+2. Gyakugamae jodan no kuzushi ura   
 Chudan   
-3. Aigamae chudan no kuzushi ura  
+3. Aigamae chudan no kuzushi ura   
 4. Gyakugamae chudan no kuzushi ura  
 Gedan  
 5. Aigamae gedan no kuzushi ura
