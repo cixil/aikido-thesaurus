@@ -15,31 +15,31 @@ Basic 17 techniques that Tomiki derived from Aikijitsu
 ### Atemi-waza
 Attacking techniques  
 1. **Shomen-ate** - Forward strike to the head  
-2. **Aigamae-ate**
-3. **Gyakugamae-ate**
-4. **Gedan-ate** - Low strike  
-5. **Ushiro-ate** - Rear strike  
+2. **Aigamae-ate** – mutual stance strike; ai= same; gamae= stance
+3. **Gyakugamae-ate** - reverse posture attack; gyaku = contrary
+4. **Gedan-ate** - Low strike; gedan = low, lower level  
+5. **Ushiro-ate** - Rear strike; ushiro = rear
 
 ### Hiji-waza
 Elbow techniques  
-6. **Oshi-taoshi**  
-7. **Ude-gaeshi**  
-8. **Hiki-taoshi**  
-9. **Ude-garame**  
-10. **Waki-gatame**  
+6. **Oshi-taoshi** – oshi=push down, fall down; taoshi= tip over, pull down 
+7. **Ude-gaeshi**  – ude = arm; gaeshi =return
+8. **Hiki-taoshi** - hiki= pull; elbow pull down (?)
+9. **Ude-garame** - garame = entanglement (?)
+10. **Waki-gatame** – waki= side; gatame=lock
 
 ### Tekubi-waza
-Wrist techniques  
-11. **Kote-hineri** -  
-12. **Kote-gaeshi** -  
-13. **Tenkai-kote-hineri** -  
-14. **Tenkai-kote-gaeshi** -  
+Wrist techniques; also referred to as Kote-waza (kote = wrist)  
+11. **Kote-hineri** - hineri = twist; forearm twist  
+12. **Kote-gaeshi** - wrist or forearm return  
+13. **Tenkai-kote-hineri** - tenkai = turning; turning kote twist
+14. **Tenkai-kote-gaeshi** - also called shiho nage; four direction throw; shi= four; ho= direction; nage = throw; turning kote twist return  
 
 ### Uki-waza
-Floating techniques  
-15. **Mae-otoshi** -  
-16. **Sumi-otoshi** - "Corner throw" - Counter attack when 13 doesn't work  
-17. **Hiki-otoshi** -  
+Floating techniques; uki= float; otoshi=drop
+15. **Mae-otoshi** - forward drop
+16. **Sumi-otoshi** - "Corner throw" - Counter attack when 13 doesn't work; sumi = angle, corner
+17. **Hiki-otoshi** - hiki=pull; pull drop
 
 ## Yon kata
 ### Nanahon-nage (Kuzushi) waza
@@ -64,24 +64,29 @@ Kneeling techniques
 
 
 ### Buki-waza
+Weapon techniques  
 
-## Footwork / General movement
+## Stance / Footwork / General movement
 * **Tai-sabaki** - Any first movement in a technique that involves getting off the line.
-* **Tenkan**
+* **Tenkan**– pivot or turn; entering turn against one hand wrist grab ???
 * **Tenkai**
-
-## Stances / Positions
+* **Tegatana** - Hand blade
 * **Kihone**
 * **Tegatana**
+
 
 ## Drills?
 * **Nunin-dori** - Multiple unarmed attackers
 * **Tanto-Randori** - One knifed attacker
+* **Kakari-geiko** – tanto randori, uke no resistance
+* **Hikitate** – tanto randori, uke light resistance
 
 ## Principles
 * **Atemi** - 
 * **Ukemi** - The active recieving of a technique; Observing the attacker, surrounding environment and gracefully falling.
 * **Ki**
+* **Irimi** - Principle of entering inside and moving through attack
+
 
 ## Weapons  
 * **Bo** - long wooden staff
@@ -89,21 +94,50 @@ Kneeling techniques
 * **Tanto** - small knife
 
 ## Dojo Etiquette  
-* **Arigato gozaimasu** - Thank you
-* **Awari / Awarimasu** - Finished
+* **Arigato gozaimashita** - Thank you; at bowing out
+* **Onegaishimasu** - Please (to have your guidance; thanks for having me); at bowing in
+* **Owari / Owarimasu** - Finished
 * **Hajimei** - Begin  
-* **Tatami**
-
+* **Matte** - Stop
+* **Hai** - Yes
+* **Tatami** - japanese straw mats
+* **Shomen** – front wall of dojo where kamidana (shrine of the highest head) is
+* **shomen ni rei** - bow to shomen
+* **Sensei** – teacher; “sensei ni rei” bow to sensei
 * **Uke** - Person attacking or being thrown
-* **Tori** - Person who maintains balance and performs the technique
+* **Tori/nage** - Person who maintains balance and performs the technique
 
 ## General Japanese to help with understanding
 * **Waza** - technique/skill
 * **Ate** - attack
 * **Gedan** - low
-* **Irimi** - 
 * **Otoshi** - to topple over
 * **Sumi** - Corner
 * **Hiki** - to pull
 
+## Numbers
+1. Ichi
+2. Ni
+3. San
+4. Shi
+5. go
+6. roku
+7. shichi
+8. hachi
+9. kyu
+10. juu
+11. Juu ichi
+12. Juu ni
+13. Juu san
+14. Juu yon
+15. Juu go
+16. Juu roku
+17. Juu nana
+18. Juu hachi
+19. Juu kyu
+20. Ni juu
+21. Ni juu ichi
+
+
 ## etc
+*  **Kote giri** – wrist cut (during sword practice)
